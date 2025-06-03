@@ -1,0 +1,3 @@
+langchain-groq
+mcp-use # For the latest version of mcp-use, you can use:
+# pip install mcp-use --index-url https://mcp-use.s3.amazonaws.com/index.html

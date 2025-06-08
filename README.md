@@ -11,4 +11,4 @@ The project is built using the **FastMCP** framework and can be easily extended 
 - **Extensible**: Easily add more tools and functionalities to suit your needs.
 
 
-  ### Check this repo for quickstart - https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file
+### Check this repo for quickstart - https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file
